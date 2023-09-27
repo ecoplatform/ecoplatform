@@ -1,0 +1,17 @@
+{
+  "name": "ecoplatform_init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.16.6"
+  },
+  "dependencies": {
+    "wd": "^1.14.0"
+  }
+}
