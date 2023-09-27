@@ -1,6 +1,8 @@
-- 👋 Hi, here will be all instructions
-- 👀 how to run tests
-- 🌱 how to merge, pull and push
+- 👋 Hi, here will be all instructions how to
+- 👀 run tests
+- 🌱 merge
+- 🌱 pull
+- 🌱 push
 
 
 <!---
